@@ -23,3 +23,26 @@
     font-weight: bold;
     font-family: sans-serif;
 }
+
+
+.img {
+    border-bottom: 3px;
+    border-color: blue solid;
+}
+
+
+.img-1 {
+ 
+}
+
+
+.card-1 {
+    margin-top: 50px;
+    margin-left: 80px;
+    float: left;
+    /* padding-left:10px; */
+}
+
+.button {
+    margin-left: 50px;
+}
